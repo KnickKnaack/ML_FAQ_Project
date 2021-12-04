@@ -17,3 +17,7 @@ This is a project to develop an interface to answer questions about New Mexico S
 
 * prototype.py - This is a python file that downloads all necessary libraries and runs an input driven simulation for a student question interface.
 
+## Execution
+* ML_Mini_Project_Code.ipynb - To execute the project code, just run it in any python notebook executor (Jupyter, Google Colab), and all of the required libraries should automatically download. Just make sure that the 'Cleaned_Questions.csv' is in the sasme directory.
+
+* prototype.py - To execute the prototype, just run with python3 in the command line. All of the required libraries should be downloaded, and the prototype will start with its initial prompt. Just make sure to have 'Cleaned_Questions.csv' in the sasme directory.
